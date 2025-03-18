@@ -1,6 +1,5 @@
-'use client';
 
-import MenuBar from '../../components/MenuBar';
+import MenuBar from '../../Components/MenuBar';
 
 export default function About() {
   return (
